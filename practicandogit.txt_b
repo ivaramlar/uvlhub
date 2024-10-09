@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 esta es una nueva linea local
+=======
+esta es una nueva línea remota
+>>>>>>> refs/remotes/origin/feature/practicandogit_b
